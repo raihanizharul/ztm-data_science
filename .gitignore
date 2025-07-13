@@ -17,5 +17,5 @@ __pycache__/
 .vscode/
 .idea/
 
-# Data folders
-pandas-exercises.ipynb
+.gitignore
+
