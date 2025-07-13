@@ -1,0 +1,21 @@
+# Ignore Conda environments
+env/
+.conda/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode / PyCharm etc.
+.vscode/
+.idea/
+
+# Data folders
+pandas-exercises.ipynb
