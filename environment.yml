@@ -1,4 +1,4 @@
-name: C:\Users\Public\Documents\data_science\sample_project_1\env
+name: sample_project_1_env
 channels:
   - defaults
 dependencies:
